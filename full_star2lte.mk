@@ -21,6 +21,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 TARGET_BOOT_ANIMATION_RES := 1440
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-PRIVATE_BUILD_DESC="star2ltexx-user 8.0.0 R16NW G965FXXU1BRF8 release-keys"
+PRIVATE_BUILD_DESC="star2ltexx-user 8.0.0 R16NW G965FXXU1ARCC release-keys"
 
-BUILD_FINGERPRINT := samsung/star2ltexx/star2lte:8.0.0/R16NW/G965FXXU1BRF8:user/release-keys
+BUILD_FINGERPRINT := samsung/star2ltexx/star2lte:8.0.0/R16NW/G965FXXU1ARCC:user/release-keys
